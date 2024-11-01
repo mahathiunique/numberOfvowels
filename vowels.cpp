@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
     string alphabets;
-    cout << "Type something: ";
+    cout << "Enter a string: ";
     getline(cin, alphabets); 
     int vowels = 0;
 
